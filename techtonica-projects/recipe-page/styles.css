@@ -158,4 +158,40 @@ body.dark-mode .btn {
       padding: 20px;
   }
 }
+/* Review Section */
+#review-form {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#reviews-list {
+  margin-top: 20px;
+  padding-left: 0;
+}
+
+#reviews-list li {
+  background-color: #bcc6cf;
+  padding: 15px;
+  border: 1px solid #dee2e6;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+#reviews-list li h4 {
+  margin-bottom: 5px;
+}
+
+#reviews-list li small {
+  display: block;
+  color: #6c757d;
+}
+
+#reviews-list li p {
+  margin-bottom: 0;
+}
+.form-control{
+  background-color: #bcb8b8;
+}
+
+
 >>>>>>> c5225074f712c32f08f410e3877f873f182c219d
